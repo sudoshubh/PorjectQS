@@ -27,3 +27,4 @@ _Kafka command_:
 >Ping if any suggestions & queries 👍)
 
 ![image](https://github.com/sudoshubh/ProjectQS/assets/38440523/5572395f-6646-47ec-8a30-7e389d3fbaf3)
+[Project SQ.pdf](https://github.com/sudoshubh/ProjectQS/files/12333754/Project.SQ.pdf)
